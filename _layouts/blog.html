@@ -19,7 +19,10 @@ layout: compress
         <div id="results-container"></div>
         <!--Blog Cards Section-->
         {% for post in site.posts %}
-            {% include blog-card.html %}
+            {% assign first_dir = post.path | remove_first: "_posts/" | split: "/" | first %}
+            {% if first_dir == 'blog' %}
+                {% include blog-card.html %}
+            {% endif %}
         {% endfor %}
         </div>
     </section>
