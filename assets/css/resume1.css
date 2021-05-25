@@ -9820,15 +9820,15 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   color: #434E5E;
 }
 
-.resume-degree {
+.resume-conf {
   color: #434E5E;
 }
 
-.resume-degree-org {
+.resume-conf-org {
   font-size: 0.875rem;
 }
 
-.resume-degree-time {
+.resume-conf-time {
   color: #aab4c3;
   font-size: 0.875rem;
 }
