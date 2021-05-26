@@ -65,10 +65,24 @@ hr {
     padding: 0.5rem;
 }
 
+.columnabout {
+    margin: auto 0.5rem;
+    line-height: 1.7;
+    padding: 1rem;
+    font-size: 1.15rem;
+    text-align: justify;
+    color: #58677c;
+}
+
 .searchResult {
     a {
         .title {
             text-decoration: underline;
         }
     }
+}
+
+p.big {
+    font-size: 1.8rem;
+    color: #58677c
 }

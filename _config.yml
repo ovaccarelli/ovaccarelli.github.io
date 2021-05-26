@@ -43,13 +43,20 @@ disqus-shortname: ovaccarelli
 # Name of the Author
 author-name: Ornella Vaccarelli
 # URL for the Image of the Author
-author-image: https://i1.rgstatic.net/ii/profile.image/670375440572434-1536841368863_Q512/Ornella-Vaccarelli.jpg
+# author-image: https://i1.rgstatic.net/ii/profile.image/670375440572434-1536841368863_Q512/Ornella-Vaccarelli.jpg
 # 60 Words About the Author
-author-about: <p><b> Welcome to my personal website! </p></b> <p>I am Ornella Vaccarelli, a post-doc in the <a href='https://www.tcpunilu.com/'>Theoretical Chemical Physics group</a>
-              at the University of Luxembourg, lead by Prof. Alexandre Tkatchenko.
+author-about: <p>I am Ornella Vaccarelli, a post-doc in the<a href='https://www.tcpunilu.com/'>TCP group</a>at the University of Luxembourg. <br>
+              <br>
+              My current main research activity focuses on the study of the structures and physical properties of various materials, from the micro to the macroscale level.
+              In particular, I am interested in investigating quantum many-body systems through a combined theoretical and numerical approaches in order to predict 
+              the collective properties of very large numbers of electrons, atoms or molecules, and discover new principles and phenomena at the multidisciplinary 
+              interfaces of physics, chemistry and biology. <br>
+              <br>
               I consider myself an ambitious and creative researcher with natural ability for critical thinking and complex problems solving.
-              As a curiosity-driven, enthusiast learner and skilled theoretical physicist, I am always motivated by new challenges, prompted to find clever solutions to multidisciplinar problems.</p>
-              <p>The combination of mathematical, computer science and physics skill obtained during the diffent and 
+              As a curiosity-driven, enthusiast learner and skilled theoretical physicist, I am always motivated by new challenges, 
+              prompted to find clever solutions to multidisciplinar problems. <br>
+
+              The combination of mathematical, computer science and physics skill obtained during the diffent and 
               proficuous years of studying and working in research have allowed me to acquire additional persistence 
               to my own ambition and motivation to perform excellent work, and to develop a wide variety of interests, 
               also beyond my area of expertise. Moreover, I earned significant experience 
